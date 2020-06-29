@@ -548,6 +548,11 @@ body {
   padding-left: 100px;
 }
 
+.header__btn .menu__check--active {
+    position: absolute;
+    border: 3px solid #fff;
+}
+
 .menu__box {
   list-style: none;
 }
